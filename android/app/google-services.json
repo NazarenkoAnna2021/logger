@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818016497181",
+    "project_id": "testloggeranalitics",
+    "storage_bucket": "testloggeranalitics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818016497181:android:7184d1132702edac6020f4",
+        "android_client_info": {
+          "package_name": "com.loggertest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkhkvpodjFYvjvewE8v8ob1Ace9OfC0Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
